@@ -1,7 +1,3 @@
-Aquí tienes una plantilla en formato Markdown lista para que la copies y la pegues directamente en el archivo `README.md` de vuestro repositorio.
-
----
-
 # Guía de Colaboración del Repositorio
 
 Bienvenido al repositorio del equipo. Para asegurar que todos trabajamos de forma ordenada y sin sobrescribir el código de nuestros compañeros, seguiremos un flujo de trabajo basado en ramas (**GitHub Flow**).
